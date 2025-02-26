@@ -8,7 +8,7 @@
     Description="Uprość swoje e-maile i dodaj język korzyści.">
     <Host Name="Outlook" />
     <DefaultSettings>
-        <SourceLocation DefaultValue="https://github.com/kalafiorro/upraszczasz/blob/main/taskpane.html" />
+        <SourceLocation DefaultValue="https://kalafiorro.github.io/outlook-addin/taskpane.html" />
     </DefaultSettings>
     <Permissions>ReadWriteItem</Permissions>
 </OfficeApp>
